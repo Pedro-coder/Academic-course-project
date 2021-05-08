@@ -17,7 +17,7 @@ django-user-sessions==1.6.0
 django-widget-tweaks==1.4.5
 dnspython==1.16.0
 et-xmlfile==1.0.1
-eventlet==0.25.1
+eventlet==0.31.0
 greenlet==0.4.15
 importlib-metadata==0.23
 jdcal==1.4.1
